@@ -46,9 +46,8 @@ I'm a Software Developer, Mobile App Developer, Data Scientist, UI/UX Designer, 
 - UI/UX Design
 - Data Science & Analytics
 
-## 🌟 Professional Experience
-- System Administrator at Google Inc.
-- Data Scientist at Upwork Inc.
-- Senior System Administrator at Freelancer Inc.
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=theoheneba&theme=cobalt&hide_border=true" alt="theoheneba's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=theoheneba&theme=cobalt&show_icons=true&hide_border=true&count_private=true" alt="theoheneba's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theoheneba&theme=cobalt&show_icons=true&hide_border=true&layout=compact" alt="theoheneba's GitHub Stats" />
 
 Feel free to reach out for collaborations or professional inquiries!
